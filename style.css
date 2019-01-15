@@ -24,7 +24,7 @@ body {
   padding: 0;
   white-space: nowrap;
   display: flex;
-  transition: all 300ms linear 0s;
+  transition: all .35s linear 0s;
 }
 
 .slides > .slide {

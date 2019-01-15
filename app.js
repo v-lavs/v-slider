@@ -8,7 +8,7 @@ class Carousel {
         this.initCarousel();
         this.listenEvents();
         this.delay = false;
-        this.transition = 350;
+        this.transition = 850;
     }
 
     initElements() {
